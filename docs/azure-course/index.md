@@ -9,7 +9,9 @@ nav_order: 1
 
 >> Sponsored by Boeing
 
-<img src="assets\images\Team_photo_2.jpg">
+<div>
+<img src="assets/images/Team_photo_2.jpg">
+</div>
 
 Welcome to our Guide to Azure!
 
