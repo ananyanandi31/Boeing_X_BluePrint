@@ -4,10 +4,12 @@ layout: custom
 has_toc: false
 nav_order: 1
 ---
-# Azure Training Module: Azure DevOps and DevSecOps 💻
+# Azure Training Module: Azure DevOps and DevSecOps 
 >> Made by Team Blueprint 
 
 >> Sponsored by Boeing
+
+<img src="assets\images\Team_photo_2.jpg">
 
 Welcome to our Guide to Azure!
 
