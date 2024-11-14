@@ -79,10 +79,10 @@ Set up Azure Key Vault to manage application secrets.
 
 ## Deliverables
 
-**1. Plan with Milestone Schedule::**
+**1. Plan with Milestone Schedule:**
 - Prepare a project timeline with clear milestones to be approved by the project owner.
 
-**2. Proposal (Presentation)::**
+**2. Proposal (Presentation):**
 - Definitions of DevSecOps for software, DataOps for data products, CI/CD for applications vs data.
 - Market Surveys of open job postings for required skills, showcasing user (student, professor, new graduates) interviews, university courses etc.
 - Competitor analysis by conducting tool evaluation of open-source tools for creating CI/CD pipelines employing DevSecOps/DataOps principles.
