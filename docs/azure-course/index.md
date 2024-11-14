@@ -13,6 +13,8 @@ nav_order: 1
 <img src="assets/images/Team_photo_2.jpg">
 </div>
 
+![Alt Text](assets/images/Team_photo_2.jpg)
+
 Welcome to our Guide to Azure!
 
 This holistic guide is designed to equip new graduates, early-career professionals, professors (their students), and self-learners to gain practical experience in building, automating, and deploying software and data workflows utilizing DevOps, DevSecOps in Azure, thereby bridging the knowledge gap in its principles and practices. 
