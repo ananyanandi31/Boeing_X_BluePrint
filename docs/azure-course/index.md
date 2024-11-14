@@ -23,7 +23,7 @@ This holistic guide is designed to equip new graduates, early-career professiona
 
 Content Overview:
 
-1. **Introduction to DevOps:**
+**1. Introduction to DevOps:**
 
 - Overview of DevOps principles and practices.
 - Key tools: Azure DevOps, GitHub Actions, Jenkins.
