@@ -9,13 +9,9 @@ nav_order: 1
 
 >> Sponsored by Boeing
 
-<div>
-<img src="/Boeing_X_BluePrint/assets/images/Team_photo_2.jpg">
-</div>
 
-Hello
+![Team_Picture](/Boeing_X_BluePrint/assets/images/Team_photo_2.jpg)
 
-![Alt Text](/Boeing_X_BluePrint/assets/images/Team_photo_2.jpg)
 
 Welcome to our Guide to Azure!
 
