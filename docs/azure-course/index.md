@@ -28,22 +28,22 @@ Content Overview:
 - Overview of DevOps principles and practices.
 - Key tools: Azure DevOps, GitHub Actions, Jenkins.
 
-2. **Infrastructure as Code (IaC):**
+**2. Infrastructure as Code (IaC):**
 
 - Using Azure Resource Manager (ARM) templates and Terraform.
 - Automating the provisioning of resources.
 
-3. **CI/CD Pipelines:**
+**3. CI/CD Pipelines:**
 
 - Setting up pipelines in Azure DevOps.
 - Automating code builds, tests, and deployments.
 
-4. **Monitoring and Logging:**
+**4. Monitoring and Logging:**
 
 - Setting up Azure Monitor and Log Analytics.
 - Application performance and error tracking.
 
-Hands-On Exercises:
+**5. Hands-On Exercises:**
 
 - Build a pipeline to deploy a simple web application to Azure App Service.
 - Automate testing and environment configuration using IaC.
@@ -52,61 +52,79 @@ Hands-On Exercises:
 
 Content Overview:
 
-1. **Introduction to DevSecOps:**
+**1. Introduction to DevSecOps:**
 
 - Principles of secure software development.
 - Shifting security "left" in the software lifecycle.
 
-2. **Security Tools Integration:**
+**2. Security Tools Integration:**
 
 - Implementing static code analysis with SonarQube or Snyk.
 - Dynamic security scanning tools like OWASP ZAP.
 
-3. **Securing CI/CD Pipelines:**
+**3. Securing CI/CD Pipelines:**
 
 - Adding automated security tests to pipelines.
 - Using Azure Security Center for compliance monitoring.
 
-4. **Access Control and Secrets Management:**
+**4. Access Control and Secrets Management:**
 
 - Implementing Role-Based Access Control (RBAC).
 - Managing secrets securely using Azure Key Vault.
 
-Hands-On Exercises:
+**5. Hands-On Exercises:**
 
 Add static and dynamic security scans to an existing CI/CD pipeline.
 Set up Azure Key Vault to manage application secrets.
 
 ## Deliverables
 
-1. **Plan with Milestone Schedule::**
+**1. Plan with Milestone Schedule::**
 - Prepare a project timeline with clear milestones to be approved by the project owner.
 
-2. **Proposal (Presentation)::**
+**2. Proposal (Presentation)::**
 - Definitions of DevSecOps for software, DataOps for data products, CI/CD for applications vs data.
 - Market Surveys of open job postings for required skills, showcasing user (student, professor, new graduates) interviews, university courses etc.
 - Competitor analysis by conducting tool evaluation of open-source tools for creating CI/CD pipelines employing DevSecOps/DataOps principles.
 
-3. **Procure & Build Lab in the Box:**
+**3. Procure & Build Lab in the Box:**
 - Rewrite installation processes for DevSecOps tools (e.g., source code repositories, artifact management, build orchestration, security scanning) on Azure.
-- Create samples and reference projects for users
+- Create samples and reference projects for users.
 - Document procedures for lab setup and teardown.
 
-4. **Training Material:**
+**4. Training Material:**
 - Step-by-step exercises for the training module.
 
-5. **Demo of Lab in the Box:**
+**6. Demo of Lab in the Box:**
 - Present a working lab setup showcasing DevSecOps and DataOps pipelines.
 
-6. **Implementation Timeline:**
-- Week 1-2: User Research, Market Research and Industry standard tools research
-- Week 3-4: Project Plan and Project Scope 
-- Week 5-6: Proposal development
-- Week 7-9: DevSecOps Module development
-- Week 10-12: Training Material Finalization
-- Week 13-15: Creating Hands-on exercises and reference applications
-- Week 16-18: User Testing of Training Material
-- Week 19-21: DataOps Pipeline development
+## Implementation Timeline:
+
+Week 1- 4: Research and Finalize Scope
+- Conduct market and user research (surveys, interviews).
+- Define project scope, objectives, and curriculum.
+- Finalize tools and technologies (Azure, GitHub, Jenkins, Docker).
+
+Weeks 5-12: Module and Pipeline Development
+- Develop DevOps and DevSecOps module.
+- Implement and integrate CI/CD pipeline and DataOps layers (ingest, process, consume).
+- Test and document lab setup and shutdown procedures.
+
+Weeks 13-18: Training Material & Curriculum
+- Develop step-by-step guide and lab exercises for CI/CD and data pipelines.
+- Create training materials, assessment criteria and reference applications.
+- Finalize curriculum for software and data product deployment.
+
+Weeks 19-22: Testing & Refinement
+- Pilot lab with universities and gather feedback.
+- Refine lab content based on testing results.
+- Finalize all technical and educational materials.
+
+Weeks 23-25: Final Demo & Open-Source Publication
+- Prepare and present final lab demo to stakeholders.
+- Publish open-source materials and deliver final project report.
+
+Thank You for your time!
 
 ### Connect with Team BluePrint 🔗
 - [Ananya Nandi](https://www.linkedin.com/in/ananya-nandi/)
