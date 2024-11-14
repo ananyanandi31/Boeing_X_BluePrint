@@ -1,16 +1,16 @@
-title: open-devsecops
+title: Boeing_X_BluePrint
 description: 'From Classroom to Industry: Bridging the DevSecOps Knowledge Gap with Open, Practical Learning.'
 theme: just-the-docs
 
 logo: "/assets/images/opendevsecops-transparent.png"
 favicon_ico: "/assets/images/opendevsecops-favicon.ico"
 
-url: https://open-devsecops.github.io
+url: https://ananyanandi31.github.io/Boeing_X_BluePrint/
 search_enabled: false
 
 aux_links:
-  Github: https://github.com/open-devsecops
-  Contribute: https://github.com/open-devsecops/open-devsecops.github.io
+  Github: https://github.com/ananyanandi31
+  Contribute: https://github.com/ananyanandi31/Boeing_X_BluePrint
 
 callouts:
   important:
